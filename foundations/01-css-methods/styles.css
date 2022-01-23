@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+div{
+    background-color: red;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+
+}
